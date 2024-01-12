@@ -1,1 +1,1 @@
-# DSAA-6100-Movie-Review-Classification
+# kaggle Competition : https://www.kaggle.com/competitions/dsaa-6100-movie-review-classification/overview
